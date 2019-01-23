@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ParkMyCar</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button">Get Started !!</string>
+    <string name="button1">Park Car Here</string>
+    <string name="textview1">Park My Car</string>
+
+</resources>
